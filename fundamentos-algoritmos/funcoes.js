@@ -1,24 +1,23 @@
 const readline = require('readline');
 
-const rl = readline.createInterface({
+const entradaUsuario = readline.createInterface({
     input: process.stdin,
     output: process.stdout
 });
 
-rl.question('Digite um numero: ', (resposta) => {
+entradaUsuario.question('Digite um numero: ', (resposta) => {
     let numero = parseInt(resposta);
     
     if (isNaN(numero) || numero < 0) {
         console.log("Digite um numero valido!");
     } else {
-        // Verifica se é par ou ímpar
+        
         if (numero % 2 == 0) {
             console.log(numero + " é PAR");
         } else {
             console.log(numero + " é IMPAR");
         }
         
-        // Verifica se é primo
         let ehPrimo = true;
         if (numero <= 1) {
             ehPrimo = false;
@@ -37,5 +36,5 @@ rl.question('Digite um numero: ', (resposta) => {
         }
     }
     
-    rl.close();
+    entradaUsuario.close();
 });
