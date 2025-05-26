@@ -1,21 +1,21 @@
 # Projeto: Frontend CI - DevOps Básico
 
-Este projeto é um exemplo simples de integração contínua (CI) com GitHub Actions, desenvolvido como parte da disciplina **DevOps Básico**.
+Este projeto é um exemplo simples de integração contínua com GitHub Actions, desenvolvido como parte da disciplina **DevOps Básico**.
 
-## 🚀 Tecnologias
+## Tecnologias
 - HTML5
 - CSS3
 - JavaScript
 - GitHub Actions
 - Docker
 
-## 💡 Objetivo
+## Objetivo
 Simular um fluxo DevOps com:
 - Versionamento de código
 - Pipeline de build/validação via GitHub Actions
 - Empacotamento com Docker
 
-## ▶️ Executando localmente
+## Executando localmente
 
 ```bash
 # Abrir direto no navegador
