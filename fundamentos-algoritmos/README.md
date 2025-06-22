@@ -1,4 +1,4 @@
-# Fundamentos de Computação e Algoritmos 🧠💻
+# Fundamentos de Computação e Algoritmos
 
 Este repositório contém exercícios desenvolvidos como parte da disciplina **Fundamentos de Computação e Algoritmos** do curso de Pós-Graduação em Desenvolvimento Full Stack – PUCRS.
 
@@ -36,7 +36,7 @@ Os arquivos apresentam diferentes estruturas e algoritmos clássicos, como:
 
 ---
 
-## 🎯 Objetivo Didático
+## Objetivo Didático
 
 Cada exemplo foi projetado para:
 - Consolidar o entendimento de estruturas de controle e repetição
