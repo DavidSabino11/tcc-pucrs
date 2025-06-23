@@ -2,6 +2,8 @@
 
 Este repositório contém exercícios desenvolvidos como parte da disciplina **Fundamentos de Computação e Algoritmos** do curso de Pós-Graduação em Desenvolvimento Full Stack – PUCRS.
 
+## Objetivo
+
 O objetivo principal é fixar conceitos de lógica de programação e estrutura de dados usando a linguagem **JavaScript**.
 
 ---

@@ -2,6 +2,8 @@
 
 Este repositório contém exercícios desenvolvidos como parte da disciplina **Arquitetura Client-Side** do curso de Pós-Graduação em Desenvolvimento Full Stack – PUCRS.
 
+## Objetivo
+
 O objetivo é ilustrar o uso de hooks como `useState`, `useReducer`, `useEffect`, além de eventos e formulários controlados/não controlados.
 
 ---

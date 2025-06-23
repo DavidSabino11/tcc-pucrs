@@ -1,6 +1,11 @@
 # Aplicação Next.js com Tailwind
 
-Este projeto é uma aplicação básica utilizando **Next.js** com **Tailwind CSS**, feita para fins acadêmicos (TCC) com layout moderno e responsivo.
+Projeto simples desenvolvido como prática da disciplina de **Arquitetura Client-Side** do curso de Pós-Graduação em Desenvolvimento Full Stack – PUCRS.
+
+
+## Objetivo
+
+O objetivo é uma aplicação básica utilizando **Next.js** com **Tailwind CSS**, criando um layout moderno e responsivo.
 
 ---
 
