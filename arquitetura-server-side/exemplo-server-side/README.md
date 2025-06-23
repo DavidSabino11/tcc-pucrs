@@ -1,6 +1,10 @@
-# 🖥️ server-side-intro
+# server-side-intro
 
-Projeto simples desenvolvido como prática da disciplina de **Arquitetura Server-Side**, demonstrando a criação de uma API REST utilizando Node.js e Express, com dados armazenados em memória.
+Projeto simples desenvolvido como prática da disciplina de **Arquitetura Server-Side** do curso de Pós-Graduação em Desenvolvimento Full Stack – PUCRS.
+
+## Objetivo
+
+Criação de uma API REST utilizando Node.js e Express, com dados armazenados em memória.
 
 ---
 
