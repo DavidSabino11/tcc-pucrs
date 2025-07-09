@@ -1,0 +1,15 @@
+{
+  "name": "ex-tecnicas-ageis-programacao",
+  "version": "1.0.0",
+  "main": "parquimetro.js",
+   "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "David Sabino",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.0.4"
+  }
+}
