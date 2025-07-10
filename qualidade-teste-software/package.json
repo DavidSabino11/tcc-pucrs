@@ -1,0 +1,12 @@
+{
+  "name": "qualidade-teste-software",
+  "version": "1.0.0",
+  "description": "Projeto de exemplo para qualidade e teste de software",
+  "main": "produto.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
