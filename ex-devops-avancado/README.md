@@ -1,8 +1,8 @@
 # DevOps Mini Pipeline
 
-Projeto exemplo de uma API Node.js com integração de pipeline local, Dockerfile e orquestração com Docker Compose.
+Projeto exemplo de uma API Node.js com integração de pipeline local, Dockerfile e orquestração com Docker Compose baseado na aulas de **DevOps Avançado**, parte da Pós-graduação em Desenvolvimento Full Stack – PUCRS.
 
-## 💻 Como rodar
+## Como rodar
 
 1. Instale as dependências:
 npm install
