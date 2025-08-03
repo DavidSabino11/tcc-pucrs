@@ -1,6 +1,6 @@
 # Parquímetro
 
-Projeto desenvolvido como prática de **Técnicas Ágeis de Programação**.
+Projeto desenvolvido como prática de **Técnicas Ágeis de Programação**, parte da Pós-graduação em Desenvolvimento Full Stack – PUCRS.
 
 ## Objetivo
 
@@ -19,7 +19,3 @@ Simular um sistema de parquímetro que aceita moedas, emite tickets e devolve sa
 
 - JavaScript (ES6)
 - Jest (testes unitários)
-
----
-
-Projeto educacional – PUCRS

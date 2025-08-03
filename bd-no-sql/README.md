@@ -1,6 +1,6 @@
 # CRUD de Produtos com MongoDB + Redis
 
-Projeto desenvolvido como prática das aulas de Bancos de Dados NoSQL do curso Full Stack PUCRS.
+Projeto desenvolvido como prática das aulas de **Bancos de Dados NoSQL**, parte da Pós-graduação em Desenvolvimento Full Stack – PUCRS.
 
 ## Objetivo
 
