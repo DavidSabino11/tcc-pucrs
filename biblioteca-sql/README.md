@@ -1,6 +1,6 @@
 # Sistema de Gestão de Biblioteca
 
-Este repositório contém scripts SQL desenvolvidos para praticar modelagem relacional e manipulação de dados com base nas aulas de Banco de Dados Relacional.
+Este repositório contém scripts SQL desenvolvidos para praticar modelagem relacional e manipulação de dados com base nas aulas de **Banco de Dados Relacional**, parte da Pós-graduação em Desenvolvimento Full Stack – PUCRS.
 
 ## Objetivo
 

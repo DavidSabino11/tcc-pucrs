@@ -1,6 +1,8 @@
 # Sistema de Processamento de Pedidos com Microserviços
 
-Simula um sistema de pedidos com:
+Projeto desenvolvido como prática de **Microsserviços**, parte da Pós-graduação em Desenvolvimento Full Stack – PUCRS.
+
+Simula um sistema de pedidos
 
 * API REST em Node.js
 * RabbitMQ como broker de mensagens
